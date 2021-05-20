@@ -66,18 +66,17 @@ text-decoration: underline;
 
 }
 .top-cloud{
-position: absolute;
-right: 250px;
-top: 50px;
-width: 10%;
-        
+    position: relative;
+    top: 50px;
+    width: 5%;
+    left: 30%;
+     
     }
 .bottom-cloud{
-position: absolute;
-left: 190px;
-top: 110px;
-width: 10%;
-
+    position: relative;
+    right: 40%;
+    top: 110px;
+    width: 5%;
 }
 
 .ball{
